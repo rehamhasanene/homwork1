@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82625619577",
+    "firebase_url": "https://expanded-guide-276814.firebaseio.com",
+    "project_id": "expanded-guide-276814",
+    "storage_bucket": "expanded-guide-276814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82625619577:android:9f08756a6ae2f2017a96a8",
+        "android_client_info": {
+          "package_name": "com.example.homwork1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82625619577-m731b25c0mhp8drsh4252sqejg2oo451.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQA7BoD8h5Vr56kNb-pqjerb2jTV6PjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82625619577-m731b25c0mhp8drsh4252sqejg2oo451.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
